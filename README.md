@@ -1,1 +1,1 @@
-# Approximate Fluid Simulations with UNets
+# Approximating Fluid Simulations with UNets
